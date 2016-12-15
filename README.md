@@ -47,8 +47,6 @@
 | ------------------------------------- | --------------------------------------- | ---------------------------------------- |
 | **Neural Networks and Deep Learning** |                                         | [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/) |
 | **神经网络和深度学习**                         | Neural Networks and Deep Learning的中文翻译版 | [https://github.com/zhanggyb/nndl](https://github.com/zhanggyb/nndl) |
-|                                       |                                         |                                          |
-|                                       |                                         |                                          |
 
 ---
 
@@ -57,5 +55,4 @@
 | 书籍                                    | 简介                                       | 链接                                       |
 | ------------------------------------- | ---------------------------------------- | ---------------------------------------- |
 | **Neural Networks and Deep Learning** | Stanford计算机系的官方tutorial，Andrew Ng执笔。要想了解DL的原理，这个最好用了。 | [http://ufldl.stanford.edu/tutorial/](http://ufldl.stanford.edu/tutorial/) |
-|                                       |                                          |                                          |
 | **Deep Learning**                     | 据说是目前最权威的DL教材了。                          | [http://www.deeplearningbook.org/](http://www.deeplearningbook.org/) |
