@@ -6,7 +6,7 @@
 
 ### Other version(s) for different languages
 
-[中文版](READMME_zh_CN.md)
+[中文版](README_zh_CN.md)
 
 ## Video tutorials part(Entry Level)
 
